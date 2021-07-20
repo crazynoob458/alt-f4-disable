@@ -13,7 +13,7 @@ move nof4.exe to the startup folder
 
 run installer.exe and read through
 
-when you see the path screen type C:\Users\%username%\AppData\Roaming\Microsoft\Windows\Start Menu\Programs\Startup
+when you see the path screen type `C:\Users\%username%\AppData\Roaming\Microsoft\Windows\Start Menu\Programs\Startup`
 
 #credits:
 
