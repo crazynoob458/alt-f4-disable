@@ -18,3 +18,10 @@ when you see the path screen type `C:\Users\%username%\AppData\Roaming\Microsoft
 # credits:
 
 http://www.edugeek.net/forums/windows-server-2008-r2/121900-disable-alt-f4.html
+
+
+# uninstalling
+
+go to `C:\Users\%username%\AppData\Roaming\Microsoft\Windows\Start Menu\Programs\Startup` on explorer
+
+delete nof4.exe
