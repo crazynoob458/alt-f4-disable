@@ -9,13 +9,11 @@ go to the releases
 
 move nof4.exe to the startup folder
 
-## (kinda) automatic
+## automatically
 
-run installer.exe and read through
+coming soon(tm)
 
-when you see the path screen type `C:\Users\%username%\AppData\Roaming\Microsoft\Windows\Start Menu\Programs\Startup`
-
-# credits:
+# credits
 
 http://www.edugeek.net/forums/windows-server-2008-r2/121900-disable-alt-f4.html
 
